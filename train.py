@@ -1,1 +1,2 @@
-print("hallo")
+import torch
+print(torch.version)
