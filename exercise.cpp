@@ -23,5 +23,6 @@ int main()
   cin >> n ;
   cout << n;
   cout << m;
+  int a ; 
   return 0;
 } 
