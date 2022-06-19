@@ -20,8 +20,7 @@ int n,m;
 
 int main()
 { 
-  cout<<"hallo word";
-  cout << "hall"dfs;
+  cin >> n ;
 
   return 0;
 } 
