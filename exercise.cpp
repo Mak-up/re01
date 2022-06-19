@@ -22,5 +22,6 @@ int main()
 { 
   cin >> n ;
   cout << n;
+  cout << m;
   return 0;
 } 
